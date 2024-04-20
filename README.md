@@ -9,8 +9,8 @@ In this task, we aim to predict the total number of cases for each (city, year, 
 It's important to note that the test set is a pure future hold-out, which means that it contains data that is sequential and does not overlap with any of the training data. This ensures that the predictions are made for unseen time periods.
 
 ### The features in this dataset
-1.city – City abbreviations: sj for San Juan and iq for Iquitos
-2.week_start_date – Date given in yyyy-mm-dd format
+#### 1.city – City abbreviations: sj for San Juan and iq for Iquitos
+#### 2.week_start_date – Date given in yyyy-mm-dd format
 station_max_temp_c – Maximum temperature
 station_min_temp_c – Minimum temperature
 station_avg_temp_c – Average temperature
