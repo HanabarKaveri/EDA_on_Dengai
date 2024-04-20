@@ -10,24 +10,26 @@ It's important to note that the test set is a pure future hold-out, which means 
 
 ### The features in this dataset
 #### 1.city – City abbreviations: sj for San Juan and iq for Iquitos
-#### 2.week_start_date – Date given in yyyy-mm-dd format
-station_max_temp_c – Maximum temperature
-station_min_temp_c – Minimum temperature
-station_avg_temp_c – Average temperature
-station_precip_mm – Total precipitation
-station_diur_temp_rng_c – Diurnal temperature range
-precipitation_amt_mm – Total precipitation
-reanalysis_sat_precip_amt_mm – Total precipitation
-reanalysis_dew_point_temp_k – Mean dew point temperature
-reanalysis_air_temp_k – Mean air temperature
-reanalysis_relative_humidity_percent – Mean relative humidity
-reanalysis_specific_humidity_g_per_kg – Mean specific humidity
-reanalysis_precip_amt_kg_per_m2 – Total precipitation
-reanalysis_max_air_temp_k – Maximum air temperature
-reanalysis_min_air_temp_k – Minimum air temperature
-reanalysis_avg_temp_k – Average air temperature
-reanalysis_tdtr_k – Diurnal temperature range
-ndvi_se – Pixel southeast of city centroid
-ndvi_sw – Pixel southwest of city centroid
-ndvi_ne – Pixel northeast of city centroid
-ndvi_nw – Pixel northwest of city centroid
+#### 2.year - Year  
+#### 3.weekofyear - week of the year
+#### 4.week_start_date – Date given in yyyy-mm-dd format
+#### 5.station_max_temp_c – Maximum temperature
+#### 6.station_min_temp_c – Minimum temperature
+#### 7.station_avg_temp_c – Average temperature
+#### 8.station_precip_mm – Total precipitation
+#### 9.station_diur_temp_rng_c – Diurnal temperature range
+#### 10.precipitation_amt_mm – Total precipitation
+#### 11.reanalysis_sat_precip_amt_mm – Total precipitation
+#### 12.reanalysis_dew_point_temp_k – Mean dew point temperature
+#### 13.reanalysis_air_temp_k – Mean air temperature
+#### 14.reanalysis_relative_humidity_percent – Mean relative humidity
+#### 15.reanalysis_specific_humidity_g_per_kg – Mean specific humidity
+#### 16.reanalysis_precip_amt_kg_per_m2 – Total precipitation
+#### 17.reanalysis_max_air_temp_k – Maximum air temperature
+#### 18.reanalysis_min_air_temp_k – Minimum air temperature
+#### 19.reanalysis_avg_temp_k – Average air temperature
+#### 20.reanalysis_tdtr_k – Diurnal temperature range
+#### 21.ndvi_se – Pixel southeast of city centroid
+#### 22.ndvi_sw – Pixel southwest of city centroid
+#### 23.ndvi_ne – Pixel northeast of city centroid
+#### 24.ndvi_nw – Pixel northwest of city centroid
